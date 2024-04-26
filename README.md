@@ -1,6 +1,6 @@
 # Vibes Social Network
 
-# Application Demo video on Ios Simulator: https://www.youtube.com/watch?v=UE-D3MWeG5k 
+*Application Demo video on Ios Simulator: https://www.youtube.com/watch?v=UE-D3MWeG5k*
 
 # Vibes App Documentation
 
