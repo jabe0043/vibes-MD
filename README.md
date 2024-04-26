@@ -1,5 +1,7 @@
 # Vibes Social Network
 
+# Application Demo video on Ios Simulator: https://www.youtube.com/watch?v=UE-D3MWeG5k 
+
 # Vibes App Documentation
 
 *By PixelWorks Studio*
@@ -135,7 +137,6 @@ An overview of the Information Architecture for the Vibes App detailing the user
 
 Sketches showcasing the early design stages of the Vibes app, focusing on the map view, chat interface, and user profile layout.
 
-<img src="https://i.ibb.co/4N1qgDx/low-fid-wireframe-1-1.png" alt="Paper Prototype One" width="800"/>
 <img src="https://i.ibb.co/LtVLkd4/Whats-App-Image-2024-02-04-at-19-01-1-1.png" alt="Paper Prototype Two" width="800"/>
 <img src="https://i.ibb.co/dGR6Hjd/IMG-20240201-WA0015-1.png" alt="Paper Prototype Three" width="800"/>
 
